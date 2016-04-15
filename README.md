@@ -1,0 +1,2 @@
+# numpy-lesson
+Teaching NumPy
